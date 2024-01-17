@@ -215,12 +215,3 @@ def main():
             if x==2:
                 break
 main()
-
-    
-
-
-
-
-
-
-
